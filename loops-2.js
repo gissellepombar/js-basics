@@ -17,7 +17,7 @@ while (i < 10) {
 }
 
 /* ******* For loop with break ******* */
-console.log('While Loop\n**********');
+console.log('For Loop\n**********');
 
 for (let k = 0; k < 10; k++) {
     if (k === 5) {
